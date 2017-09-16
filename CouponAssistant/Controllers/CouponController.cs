@@ -29,7 +29,7 @@ namespace CouponAssistant.Controllers
 
         // GET: api/Coupon/5
         [HttpGet]
-        [Route("/api/coupn/{site}")]
+        [Route("api/coupon/{site}")]
         public IEnumerable<Coupon> GetCouponWithSiteName(string site)
         {
             return _coupons.Where(item => item.SiteName == site);
