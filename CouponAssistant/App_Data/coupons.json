@@ -1,0 +1,37 @@
+﻿[
+  {
+    "CouponId": 1,
+    "CouponCode": "001aaa010001",
+    "Description": "10 % discount on product aaa on site id 001",
+    "SiteId": 1,
+    "SiteName": "amazon.in"
+  },
+  {
+    "CouponId": 24,
+    "CouponCode": "024xyz007001",
+    "Description": "7 % discount on product xyz on site id 001",
+    "SiteId": 1,
+    "SiteName": "amazon.in"
+  },
+  {
+    "CouponId": 35,
+    "CouponCode": "035abc015001",
+    "Description": "15 % discount on product abc on site id 001",
+    "SiteId": 1,
+    "SiteName": "amazon.in"
+  },
+  {
+    "CouponId": 12,
+    "CouponCode": "012aaa050002",
+    "Description": "10 % discount on product aaa on site id 002",
+    "SiteId": 2,
+    "SiteName": "flipkart.com"
+  },
+  {
+    "CouponId": 3,
+    "CouponCode": "003wzx010002",
+    "Description": "10 % discount on product wzx on site id 002",
+    "SiteId": 2,
+    "SiteName": "flipkart.com"
+  }
+]
